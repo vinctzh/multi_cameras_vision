@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MultiCameras", "MultiCameras\MultiCameras.vcxproj", "{4DE65168-D19F-41AC-A34E-D8F7F4828BF8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CvCalib", "CvCalib\CvCalib.vcxproj", "{401741C5-F490-4047-8A9C-920C53235735}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EstimateF", "EstimateF\EstimateF.vcxproj", "{E554416B-3750-4342-A06C-2CF26D867356}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DE65168-D19F-41AC-A34E-D8F7F4828BF8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4DE65168-D19F-41AC-A34E-D8F7F4828BF8}.Debug|Win32.Build.0 = Debug|Win32
+		{4DE65168-D19F-41AC-A34E-D8F7F4828BF8}.Release|Win32.ActiveCfg = Release|Win32
+		{4DE65168-D19F-41AC-A34E-D8F7F4828BF8}.Release|Win32.Build.0 = Release|Win32
+		{401741C5-F490-4047-8A9C-920C53235735}.Debug|Win32.ActiveCfg = Debug|Win32
+		{401741C5-F490-4047-8A9C-920C53235735}.Debug|Win32.Build.0 = Debug|Win32
+		{401741C5-F490-4047-8A9C-920C53235735}.Release|Win32.ActiveCfg = Release|Win32
+		{401741C5-F490-4047-8A9C-920C53235735}.Release|Win32.Build.0 = Release|Win32
+		{E554416B-3750-4342-A06C-2CF26D867356}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E554416B-3750-4342-A06C-2CF26D867356}.Debug|Win32.Build.0 = Debug|Win32
+		{E554416B-3750-4342-A06C-2CF26D867356}.Release|Win32.ActiveCfg = Release|Win32
+		{E554416B-3750-4342-A06C-2CF26D867356}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
